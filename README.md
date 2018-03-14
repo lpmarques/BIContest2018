@@ -10,7 +10,7 @@ Provided a **txt** file containing a list of glucose and oxygen integer prices (
 
 call: `python3 realGOBalance.py <input.txt>`
 
-###Example input
+**Example input:**
 
 	2 4 10
 	7 5 23
